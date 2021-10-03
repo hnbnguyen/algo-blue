@@ -1,4 +1,5 @@
 from collections import deque
+
 def solve(row, col):
   matrix = []
   slick = 0
