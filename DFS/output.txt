@@ -1,4 +1,2 @@
-NO
-YES
-YES
---- 0.0 seconds ---
+Case 1: 4
+--- 9.5367431640625e-07 seconds ---
